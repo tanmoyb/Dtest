@@ -1,0 +1,10 @@
+{
+  "inventory": [
+    {
+      "name": "test",
+      "email": "test",
+      "phoneNumber": "test1",
+      "id": 1
+    }
+  ]
+}
